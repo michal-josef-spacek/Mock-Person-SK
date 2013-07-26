@@ -1185,6 +1185,16 @@ Zvara
 
 # Last female names.
 our @last_female = qw(
+Balážová
+Balogová
+Horváthová
+Kováčová
+Lukáčová
+Molnárová
+Nagyová
+Szabová
+Tóthová
+Vargová
 );
 
 # Get random first male name.
