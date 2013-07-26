@@ -1247,7 +1247,7 @@ __END__
 
 =head1 NAME
 
-Mock::Person::SK - Generate random sets of Czech names.
+Mock::Person::SK - Generate random sets of Slovak names.
 
 =head1 SYNOPSIS
 
