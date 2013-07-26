@@ -12,4 +12,4 @@ use Mock::Person::SK qw(name);
 print encode_utf8(name())."\n";
 
 # Output like.
-# TODO
+# Vratislav Svätopluk Pravotiak
