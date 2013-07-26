@@ -14,6 +14,7 @@ Makefile.PL
 MANIFEST			This list of files
 META.yml
 README
+SIGNATURE
 SK.pm
 t/Mock-Person-SK/00-use.t
 t/Mock-Person-SK/01-version.t
