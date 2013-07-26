@@ -2131,7 +2131,7 @@ L<Readonly>.
 =head1 SEE ALSO
 
 L<Mock::Person>,
-L<Mock::Person::SK>,
+L<Mock::Person::CZ>,
 L<Mock::Person::DE>,
 L<Mock::Person::SV>,
 L<Mock::Person::RU>.
