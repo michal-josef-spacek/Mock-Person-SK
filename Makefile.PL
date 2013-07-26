@@ -6,16 +6,16 @@ use warnings;
 use inc::Module::Install;
 
 # Definition.
-abstract 'Generate random sets of Czech names.';
+abstract 'Generate random sets of Slovak names.';
 author 'Michal Špaček <skim@cpan.org>';
 license 'bsd';
-name 'Mock-Person-CZ';
+name 'Mock-Person-SK';
 requires 'Exporter' => 0;
 requires 'Readonly' => 0;
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
-	'?Name=Mock-Person-CZ';
-resources 'homepage' => 'https://github.com/tupinek/Mock-Person-CZ';
-resources 'repository' => 'git://github.com/tupinek/Mock-Person-CZ';
+	'?Name=Mock-Person-SK';
+resources 'homepage' => 'https://github.com/tupinek/Mock-Person-SK';
+resources 'repository' => 'git://github.com/tupinek/Mock-Person-SK';
 test_requires 'English' => 0;
 test_requires 'File::Object' => 0.05;
 test_requires 'List::MoreUtils' => 0;

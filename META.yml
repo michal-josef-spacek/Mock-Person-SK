@@ -1,5 +1,5 @@
 ---
-abstract: 'Generate random sets of Czech names.'
+abstract: 'Generate random sets of Slovak names.'
 author:
   - 'Michal Špaček <skim@cpan.org>'
 build_requires:
@@ -20,7 +20,7 @@ license: bsd
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
-name: Mock-Person-CZ
+name: Mock-Person-SK
 no_index:
   directory:
     - examples
@@ -30,8 +30,8 @@ requires:
   Exporter: 0
   Readonly: 0
 resources:
-  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Mock-Person-CZ
-  homepage: https://github.com/tupinek/Mock-Person-CZ
+  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Mock-Person-SK
+  homepage: https://github.com/tupinek/Mock-Person-SK
   license: http://opensource.org/licenses/bsd-license.php
-  repository: git://github.com/tupinek/Mock-Person-CZ
+  repository: git://github.com/tupinek/Mock-Person-SK
 version: 0.01
