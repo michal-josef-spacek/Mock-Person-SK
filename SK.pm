@@ -2132,7 +2132,9 @@ L<Readonly>.
 
 L<Mock::Person>,
 L<Mock::Person::CZ>,
+L<Mock::Person::EN>,
 L<Mock::Person::DE>,
+L<Mock::Person::SK::ROM>,
 L<Mock::Person::SV>,
 L<Mock::Person::RU>.
 
