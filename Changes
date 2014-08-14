@@ -1,3 +1,5 @@
+0.04
+
 0.03 2014-08-14T07:27:48+02:00
  - Add 'readme_from' directive to Makefile.PL.
  - Add minimal Perl version.
