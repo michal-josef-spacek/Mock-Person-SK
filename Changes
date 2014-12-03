@@ -1,4 +1,5 @@
 0.04
+ - Fix comment (thanks Mohammad S Anwar).
  - Update Module::Install to 1.14 version.
 
 0.03 2014-08-14T07:27:48+02:00
